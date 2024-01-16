@@ -1,0 +1,13 @@
+{
+  "item.genocraft.dna_sample": "DNA Sample",
+  "item.genocraft.genetic_modifier": "Genetic Modifier",
+  "item.genocraft.syringe": "Syringe",
+
+  "block.genocraft.gene_sequencer": "Gene Sequencer",
+
+  "creativetab.genocraft_tab": "Genocraft",
+
+  "gui.genocraft.gene_sequencer_screen": "Gene Sequencer",
+
+  "container.genocraft.gene_sequencer": "Gene Sequencer"
+}

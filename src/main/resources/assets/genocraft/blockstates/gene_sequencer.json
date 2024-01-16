@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "genocraft:block/gene_sequencer" }
+  }
+}
